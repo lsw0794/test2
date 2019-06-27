@@ -893,7 +893,7 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 # Video Captioning
 
-[http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning](http://handong1587.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning)
+[http://lsw0794.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning](http://lsw0794.github.io/deep_learning/2015/10/09/image-video-captioning.html#video-captioning)
 
 # Video Summarization
 

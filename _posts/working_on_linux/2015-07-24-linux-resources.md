@@ -44,7 +44,7 @@ date: 2015-07-24
 
 - intro: NcFTP Client (also known as just NcFTP) is a set of FREE application programs implementing the File Transfer Protocol (FTP).
 - homepage: [http://www.ncftp.com/ncftp/](http://www.ncftp.com/ncftp/)
-- my gist: [https://gist.github.com/handong1587/1f367ae3dfdb91f0ec4490a75459cb7c](https://gist.github.com/handong1587/1f367ae3dfdb91f0ec4490a75459cb7c)
+- my gist: [https://gist.github.com/lsw0794/1f367ae3dfdb91f0ec4490a75459cb7c](https://gist.github.com/lsw0794/1f367ae3dfdb91f0ec4490a75459cb7c)
 
 **Linux / Unix ncftp: Upload Directory Tree To Remote FTP Server Recursively**
 

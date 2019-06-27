@@ -71,7 +71,7 @@ date: 2015-08-27
 **RedSVD**
 
 - code: [https://code.google.com/p/redsvd/](https://code.google.com/p/redsvd/)
-- github: [https://github.com/handong1587/redsvd](https://github.com/handong1587/redsvd)
+- github: [https://github.com/lsw0794/redsvd](https://github.com/lsw0794/redsvd)
 - github: [https://github.com/ntessore/redsvd-h](https://github.com/ntessore/redsvd-h)
 
 **OpenCV 3.1.0: cv::SVD Class Reference**

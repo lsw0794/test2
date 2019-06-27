@@ -8,7 +8,7 @@ date: 2015-12-18
 # Step-1: Clone the original repo to your local machine
 
 ```
-git clone https://github.com/handong1587/caffe.git caffe-yolo
+git clone https://github.com/lsw0794/caffe.git caffe-yolo
 ```
 
 ![](/assets/linux_study/create_multi_fork_1.jpg)
@@ -33,7 +33,7 @@ git remote -v
 
 ```
 git remote rename origin upstream
-git remote add origin https://github.com/handong1587/caffe-yolo.git
+git remote add origin https://github.com/lsw0794/caffe-yolo.git
 git remote -v
 ```
 

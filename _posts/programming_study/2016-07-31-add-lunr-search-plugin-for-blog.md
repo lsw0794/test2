@@ -16,7 +16,7 @@ First rule: DO NOT try to do this on Windows.
 On windows (and OS X), you can not even manage to gem install therubyracer, which is essential component required by jekyll-lunr-js-search. 
 See my previous post: 
 
-[http://handong1587.github.io/web_dev/2016/07/03/install-therubyracer.html](http://handong1587.github.io/web_dev/2016/07/03/install-therubyracer.html)
+[http://lsw0794.github.io/web_dev/2016/07/03/install-therubyracer.html](http://lsw0794.github.io/web_dev/2016/07/03/install-therubyracer.html)
 
 Keep yourself aware that you don't include jQuery twice. It can really cause all sorts of issues.
 
